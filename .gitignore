@@ -3,3 +3,4 @@ cache
 logs
 plugins
 versions
+server.properties
