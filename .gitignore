@@ -5,3 +5,4 @@ plugins
 versions
 server.properties
 hs_err_*.log
+session.lock
